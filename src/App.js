@@ -39,11 +39,11 @@ function App() {
 
                   <div className="text-center">
                     <button type="submit" className="btn btn-warning">
-                      <span className="fa fa-plus mr-5"></span>Save
+                      <span className="fa fa-plus mr-5" id="acti"></span>Save
                     </button>
 
-                      <button type="submit" className="btn btn-danger">
-                      <span className="fa fa-close mr-5"></span>Cancel
+                      <button type="submit" className="btn btn-danger" >
+                      <span className="fa fa-close mr-5" id="acti"></span>Cancel
                     </button>
                   </div>
                   
